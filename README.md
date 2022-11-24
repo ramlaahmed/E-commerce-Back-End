@@ -1,1 +1,23 @@
 # E-commerce-Back-End
+
+## Overview
+
+In this project, i created a mysql database and backend application for an e-commence site.
+
+## Technologies
+
+- MySql
+- JavaScript
+- Sequelize
+- Dotenv
+- Express
+
+## Screen Shot
+
+![postman](./images/Screenshot%202022-11-24%20at%2020.26.01.png)
+
+## Links
+
+Github URL: https://github.com/ramlaahmed/E-commerce-Back-End
+
+Walk-through video link:
