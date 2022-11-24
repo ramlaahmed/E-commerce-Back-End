@@ -12,7 +12,7 @@ In this project, i created a mysql database and backend application for an e-com
 - Dotenv
 - Express
 
-## Screen Shot
+## ScreenShot
 
 ![postman](./images/Screenshot%202022-11-24%20at%2022.33.32.png)
 
