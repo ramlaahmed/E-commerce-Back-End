@@ -20,4 +20,4 @@ In this project, i created a mysql database and backend application for an e-com
 
 Github URL: https://github.com/ramlaahmed/E-commerce-Back-End
 
-Walk-through video link:
+Walk-through video link: https://drive.google.com/file/d/1iBQuqCTNbI8ZOHhTefSPKUwmyWNBA1Oh/view
